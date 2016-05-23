@@ -10,15 +10,15 @@ Michael Love [1], Simon Anders [2,3], Vladislav Kim [3], Wolfgang Huber [3]
 [3] European Molecular Biology Laboratory (EMBL), Heidelberg, Germany.
 Short links
 
-`-Counting reads
--Building a DESeqDataSet
--Exploratory analysis and visualization
--Differential expression
--Plotting results
--Annotating and exporting results
--Accounting for unknown batches
--Time course experiments
--Session information and references`
+`-Counting reads`
+`-Building a DESeqDataSet`
+`-Exploratory analysis and visualization`
+`-Differential expression`
+`-Plotting results`
+`-Annotating and exporting results`
+`-Accounting for unknown batches`
+`-Time course experiments`
+`-Session information and references`
 
 Abstract
 

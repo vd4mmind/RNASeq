@@ -31,3 +31,12 @@ Short links
 Abstract
 
 Here we walk through an end-to-end gene-level RNA-seq differential expression workflow using Bioconductor packages. We will start from the FASTQ files, show how these were aligned to the reference genome, and prepare a count matrix which tallies the number of RNA-seq reads/fragments within each gene for each sample. We will perform exploratory data analysis (EDA) for quality assessment and to explore the relationship between samples, perform differential gene expression analysis, and visually explore the results.
+
+Some very interesting plotting techniques in RNASeq given by Stephen Turner in his blog
+
+http://rpubs.com/turnersd/plot-deseq-results-multipage-pdf
+
+There is a package as well that can do some this tricks
+
+http://bioconductor.org/packages/release/bioc/html/Glimma.html
+

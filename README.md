@@ -6,3 +6,5 @@ https://academic.oup.com/nar/article/42/21/e161/2903156/svaseq-removing-batch-ef
 
 https://github.com/wdecoster/DEA.R
 https://support.bioconductor.org/p/59700/
+
+https://bioconductor.org/packages/release/bioc/html/EnrichmentBrowser.html
